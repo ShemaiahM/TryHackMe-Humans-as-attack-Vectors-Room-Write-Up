@@ -12,6 +12,12 @@ Identify Attack Vectors & Mitigation
 * TryHackMe
 * Browser
 * TryHackMe VM/ security dashboard
+
+### Skills Demonstrated
+* **Phishing Triage:** Identifying and analyzing malicious emails.
+* **Incident Response:** Blocking threats and initiating impact analysis.
+* **Log Analysis:** Interpreting security alerts within a dashboard.
+* **Security Awareness:** Understanding human-centric attack vectors.
  
 **Actions:**
 

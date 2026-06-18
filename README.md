@@ -1,7 +1,7 @@
 # TryHackMe-Humans-as-attack-Vectors-Room-Write-Up
 
 # TryHackMe Humans as Attack Vectors
-## Employees at Risk/Human Vectors
+## Employees at Risk/Humans as Attack Vectors
  
 ### SOC Analyst: Continuous Co-worker Protection
  

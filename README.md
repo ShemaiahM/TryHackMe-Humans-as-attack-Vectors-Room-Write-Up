@@ -42,13 +42,16 @@ Phone Spoofing & Deepfake a Co-worker of the team had a an odd phobecall from th
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/86653d6e-2bab-4b55-8292-63f461a06a26" />
 
 
-**What I Learned**
+
+**What I Learned.**
 * Who is at risk, employees/co-workers in different departments.
 * Common phishing tactics i.e. Phishing emails with payment invoices with different domain names.
 * Deepfakes and Phone Spoofing.
 * What A SIEM Dashboard may look like.
 * Daily duties of a SOC Analyst and encounters.
 * Identification and Mitigation of Malicious methods and tactic, i.e. insecure downloads.
+
+
 
 **Conclusion**
 TryHackMe simulation of day-to-day SOC Analyst. I will face

@@ -41,6 +41,19 @@ Phone Spoofing & Deepfake a Co-worker of the team had a an odd phobecall from th
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/86653d6e-2bab-4b55-8292-63f461a06a26" />
 
+## Security Policy Solutions aka Mitigation and Proactive Stance to Security.
+
+* **Anti-phishing Solutions:** Having this in place, can mitigate phishing emails so that they cant breach network or systems and be unknowingly clicked on by employees. 
+
+* **Antivirus Solutions:** Such as Crowd-Strike Falcon, pricy yet very beneficial in the long run, if ever there was a threat and risk of ransomware because an employee downloaded a file that was effectively a rootkit and malicious software.
+
+* **Staff Training aka Security Awareness Program:** Active seminars and physical hands on training to get employees to detect, recognise and use the correct security measures to mitigate risk and threats, both physical, psychological and technical.
+
+Mitigations below.
+
+<img width="439" height="451" alt="image" src="https://github.com/user-attachments/assets/d3dda0a0-0e31-4a6d-b692-38965dd6875c" />
+
+
 
 
 **What I Learned.**
@@ -50,6 +63,7 @@ Phone Spoofing & Deepfake a Co-worker of the team had a an odd phobecall from th
 * What A SIEM Dashboard may look like.
 * Daily duties of a SOC Analyst and encounters.
 * Identification and Mitigation of Malicious methods and tactic, i.e. insecure downloads.
+* Mitigations for threats and risks. I.e. Security Awareness training, so staff are aware of the threats and risks in cyber/tech a greater way to garner proactive approach to cyber security, Antivirus software to dected and remove malicious sodtware 
 
 
 

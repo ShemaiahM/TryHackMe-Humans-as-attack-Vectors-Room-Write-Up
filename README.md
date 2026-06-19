@@ -56,7 +56,7 @@ Mitigations below.
 
 
 
-**What I Learned.**
+**What I Learnt.**
 * Who is at risk, employees/co-workers in different departments.
 * Common phishing tactics i.e. Phishing emails with payment invoices with different domain names.
 * Deepfakes and Phone Spoofing.
